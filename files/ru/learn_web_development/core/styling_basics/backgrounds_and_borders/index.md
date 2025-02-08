@@ -100,7 +100,7 @@ CSS-свойство {{cssxref ("background")}} является сокраще�
 .box {
   background-image: url(star.png);
   background-repeat: no-repeat;
-  background-position: top center;
+  background-position: right center;
 }
 ```
 
